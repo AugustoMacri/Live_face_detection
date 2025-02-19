@@ -1,4 +1,4 @@
-# Face Recognition with DeepFace
+# Face Detection with DeepFace
 
 Este projeto utiliza a biblioteca **DeepFace** para realizar reconhecimento facial em tempo real utilizando a webcam.
 
